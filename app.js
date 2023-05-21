@@ -71,4 +71,3 @@ function main(){
 
 main();
 
-//tutorial reference: https://www.youtube.com/watch?v=jaVNP3nIAv0
